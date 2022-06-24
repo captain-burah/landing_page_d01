@@ -1,0 +1,155 @@
+@import url(http://fonts.googleapis.com/css?family=Fauna+One|Muli);
+#mainform{
+width:960px;
+margin:20px auto;
+padding-top:20px;
+font-family: 'Fauna One', serif;
+display:block;
+}
+//h2{
+margin-left: 65px;
+text-shadow:1px 0px 3px gray;
+}
+h3{
+font-size:20px;
+text-align:center;
+text-shadow:1px 0px 3px gray;
+}
+
+.d-col{
+	font-size:18px !important;
+	color:#000000;
+}
+
+#onclick{
+padding:3px;
+color:green;
+cursor:pointer;
+padding:5px 5px 5px 15px;
+width:70px;
+color:white;
+background-color:#123456;
+box-shadow:1px 1px 5px grey;
+border-radius:3px;
+}
+b{
+
+}
+#popup{
+padding-top:80px;
+}
+.form{
+border-radius:2px;
+padding:15px;
+box-shadow:0 0 15px;
+font-size:14px;
+font-weight:bold;
+width:350px;
+margin:20px 250px 0 35px;
+float:left;
+}
+input{
+width:100%;
+height:35px;
+margin-top:5px;
+border:1px solid #999;
+border-radius:3px;
+padding:5px;
+}
+input[type=button]{
+background-color:#815731;
+//border:1px solid white;
+font-family: 'Fauna One', serif;
+font-Weight:bold;
+font-size:15px;
+color:white;
+font-family:arial !important;
+width:49%;
+}
+
+input[type=button]:hover{
+background-color:#333333;
+//border:1px solid white;
+font-family: 'Fauna One', serif;
+font-Weight:bold;
+font-size:15px;
+color:white;
+font-family:arial !important;
+width:49%;
+}
+
+
+textarea{
+width:100%;
+height:80px;
+margin-top:20px;
+border:1px solid #999;
+border-radius:3px;
+padding:5px;
+resize:none;
+}
+#contactdiv{
+opacity:0.92;
+position: absolute;
+top: 0px;
+left: 0px;
+height: 100%;
+width: 100%;
+background: #000;
+display: none;
+z-index:9999999;
+}
+#logindiv{
+opacity:0.92;
+//position: absolute;
+top: 0px;
+left: 0px;
+height: 100%;
+width: 100%;
+background: #000;
+display: none;
+z-index:9999999;
+}
+
+#login,#contact{
+max-width:300px;
+margin:0px;
+background-color:white;
+font-family: 'Fauna One', serif;
+position: relative;
+border: 3px solid #000000;
+border-radius:5px;
+}
+.img{
+float: right;
+margin-top: -35px;
+margin-right: -45px;
+max-height:26px;
+max-width:26px;
+}
+#contact{
+left: 50%;
+top: 50%;
+margin-left:-210px;
+margin-top:-255px;
+}
+
+
+#login{
+   position: relative;
+   margin: 0 auto;
+   float: none;
+   margin-top: 60px;
+}
+
+@media only screen and (max-width: 747px){
+#login {
+    
+    //left: 3%!important;
+    //right:3% !important;
+    top: 2%!important;
+}
+}
+
+
+

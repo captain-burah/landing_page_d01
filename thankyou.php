@@ -5,30 +5,43 @@
 
 
 <head>
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="Language" content="en">
-<meta name="robots" content="follow,index">
-<meta http-equiv="Cache-control" content="public">    
-<meta name="description" content="Canal Front Residence">
-<meta name="keywords" content="Canal Front Residence">
-<meta name="author" content="Edge Realty">
-<title> Six Senses Residence </title>
-<meta charset="utf-8">
+	<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="Language" content="en">
+	<meta name="robots" content="follow,index">
+	<meta http-equiv="Cache-control" content="public">    
+	
+	<meta name="description" content="New 2 & 3 bedroom luxury apartments in the tallest tower at Business Bay. Dubai has decided to go for another trademark with Binghatti and Jacob & Co">
+	<meta name="keywords" content="Burj Binhatti Jacob & Co Residences, Burj Binghatti, Tallest Residence, Binghatti, Residences, Business Bay, Dubai, Luxury apartments, Apartments, Penthouses, Jacob & Co, Luxury Lifestyle, Ultra luxury apartments">
+	<meta name="author" content="Edge Realty">
+	
+	<title>Thank You - Binghatti Jacob & Co - Apartments & Penthouses for sale</title>
+
+	<meta charset="utf-8">
 
 
 <!-- Stylesheets -->
-<link href="css/bootstrap.css" rel="stylesheet">
+	<link
+	href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/4.4.0/mdb.min.css"
+	rel="stylesheet"
+	/>
+<link href="css/old/bootstrap.css" rel="stylesheet">
 <link href="plugins/revolution/css/settings.css" rel="stylesheet" type="text/css"><!-- REVOLUTION SETTINGS STYLES -->
 <link href="plugins/revolution/css/layers.css" rel="stylesheet" type="text/css"><!-- REVOLUTION LAYERS STYLES -->
 <link href="plugins/revolution/css/navigation.css" rel="stylesheet" type="text/css"><!-- REVOLUTION NAVIGATION STYLES -->
-<link href="css/style.css" rel="stylesheet">
-<link href="css/swiper.min.css" rel="stylesheet">
-<link href="css/simplelightbox.min.html" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
-<link href="css/intlTelInput.css" rel="stylesheet">
-<link href="css/auto_popup.css" rel="stylesheet">
+<link href="css/old/style.css" rel="stylesheet">
+<link href="css/old/swiper.min.css" rel="stylesheet">
+<link href="css/old/simplelightbox.min.html" rel="stylesheet">
+<link href="css/old/responsive.css" rel="stylesheet">
+<link href="css/old/intlTelInput.css" rel="stylesheet">
+<link href="css/old/auto_popup.css" rel="stylesheet">
 <style>
+    html, body {
+				max-width: 100%;
+				overflow-x: hidden;
+				height: 100%;
+				scroll-behavior: smooth;
+			}
 	.owl-prev {
     width: 60px;
     height: 100px;
@@ -94,181 +107,175 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150425659-32"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-150425659-32');
-</script>
+<!-- Meta Pixel Code -->
 <script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '822427082445425');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=822427082445425&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+
+<!-- Hotjar Tracking Code for https://dxb-projects.net/emaar-beachfront -->
+	<script>
     (function(h,o,t,j,a,r){
         h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-        h._hjSettings={hjid:3004048,hjsv:6};
+        h._hjSettings={hjid:3104899,hjsv:6};
         a=o.getElementsByTagName('head')[0];
         r=o.createElement('script');r.async=1;
         r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
         a.appendChild(r);
     })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
 </script>
+<!-- Hotjar Tracking Code for https://dxb-properties/emaar-beachfront -->
+
+
+<!-- Snap Pixel Code -->
+<script type='text/javascript'>
+(function(e,t,n){if(e.snaptr)return;var a=e.snaptr=function()
+{a.handleRequest?a.handleRequest.apply(a,arguments):a.queue.push(arguments)};
+a.queue=[];var s='script';r=t.createElement(s);r.async=!0;
+r.src=n;var u=t.getElementsByTagName(s)[0];
+u.parentNode.insertBefore(r,u);})(window,document,
+'https://sc-static.net/scevent.min.js');
+
+snaptr('init', '443b0936-09ee-4b88-a2fc-26ffe7716024', {
+'user_email': '__INSERT_USER_EMAIL__'
+});
+
+snaptr('track', 'PAGE_VIEW');
+
+</script>
+<!-- End Snap Pixel Code -->
+
+
+
+<!-- Global site tag (gtag.js) - Google Ads: AW-697745610 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-697745610"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-697745610');
+</script>
+<!-- Global site tag (gtag.js) - Google Ads: AW-697745610 -->
+
+
+
+
+<!-- Event snippet for Emaar Beachfront Form Submission conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-697745610/O2hPCPy4644DEMqB28wC'});
+</script>
+
+
+
 
 
 </head>
 
-<body>
+<body class="h-100">
+
+  <!--Main Navigation-->
+  <header>
+    <style>
+      #intro {
+        background-image: url("images/cover/img328.jpg");
+        height: 100vh;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+
+      /* Height for devices larger than 576px */
+      @media (min-width: 992px) {
+        #intro {
+          margin-top: -70.59px;
+        }
+      }
+
+      #intro2 {
+			background-image: url("images/cover/img102.jpg");
+			height: 100vh;
+			background-repeat: no-repeat;
+  			background-attachment: fixed;
+		}
+
+		@media (min-width: 992px) {
+			#intro3 {
+			margin-top: -58.59px !important;
+			}
+		}
+
+      .navbar .nav-link {
+        color: #fff !important;
+      }
+    </style>
 
 
-
-<div class="page-wrapper">
- 	
-
-    <!--End Main Header -->
-	<!-- Hidden Navigation Bar -->
-
-    <!-- End / Hidden Bar -->    
-
-    
-	<div class="img-ovr hidden-md hidden-lg" style="background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/slider2-small.jpg);">
-	<div class="in-content">
-    
-    <img src="images/logo.png" style="" style="margin-top: -100px; width: 450px;"  alt="Madinat Jumeirah Living villas Logo"><br><br>
-	  <div class="alert alert-warning">
-        <strong>! Thank You For Your Interest.</strong> <br>One of Our Specialist Agent Will Contact You Shortly.
-      </div>
-    
-   
-	</div>	
-	
-	
-</div>
-<div class="img-ovr hidden-xs hidden-sm" style="background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(images/slider2.jpg);">
-	<div class="in-content" >
-
-   
-      <img src="images/logo.png"  style=" width: 580px;"  alt="Madinat Jumeirah Living villas Logo"><br><br>
-	  <div class="alert alert-warning">
-        <strong>! Thank You For Your Interest.</strong> <br>One of Our Specialist Agent Will Contact You Shortly.
-      </div>
-	</div>
-</div>
-	
-	
-
-		
-	<footer class="main-footer">
-    	<!-- <div class="auto-container">
-        
-        	
-            <div class="widgets-section">
-            	<div class="row clearfix">
-                	
-             
-                    
-                </div>
-            </div>
-            
-         </div>
-          -->
-    	<!--Footer Bottom-->
-        <div class="footer-bottom">
-        	<div class="row clearfix">
-            	<div class="column col-md-12 col-sm-12 col-xs-12 text-center">
-                	<div class="copyright">Copyright © 2021 Edge Realty. All rights reserved.</div>
-                </div>
-            </div>
-        </div>
-    </footer>
-
-
-	
-</div>
-
-<!--End pagewrapper-->
-
-<!--Start Download Modal-->
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark d-none d-lg-block" style="z-index: 2000;">
       
-<div class="modal fade" id="over">
-	<div class="modal-dialog">
-	  	<div class="modal-content">
-			  <!--  Form start  -->
-			<div class="panel panel-default contact bg-edit bg-blue" style="margin-bottom:0;max-width:500px;">
-						  <!--<div class="panel-heading">Pdf download</div>-->
-				<div class="panel-body">
-					<div class="alert alert-success contact__msg" style="display: none" role="alert">
-						Your message was sent successfully.
-					</div>
-								   
-					<form  class="brochure__form" action="contact-download.php" method="post">
-						<p id="message"></p>
-						<div class="row" style="max-width:500px;">
-							<p class="text-uppercase my-font-style" align="center">Fill Your Contact Details</p>
-							<div class="col-md-12">
-								<input id="name1" type="text" class="form-control" placeholder="Name" name="name" required>
-							</div>
-							<div class="col-md-12">
-								<input id="email1" type="email" class="form-control" name="email" placeholder="Email" required>
-							</div>
-							<div class="col-md-12" style="margin-bottom: 15px;">
-								<input id="phone" placeholder="Mobile" name="phone" type="number" class="form-control input-inverse iti-phone" required>
-
-							</div>
-						
-							<div class="col-md-12 text-center">
-								<!--<input type="submit"  name="EnqSubmit"  class="btn btn-white" value="Send us a Message">-->
-								<button type="submit" class="theme-btn btn-style-one">Submit</button>     
-							</div>
-						</div>
-					</form>
-	  			</div>
-			</div>	 
-	  	</div>
-	</div>
-</div>    
+    </nav>
+    <!-- Navbar -->
 
 
-<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-	<div class="modal-dialog modal-dialog-centered" role="document">
-	  <div class="modal-content">
-		<div class="panel panel-default contact bg-edit bg-blue" style="margin-bottom:0;max-width:500px;">
-			<!--<div class="panel-heading">Pdf download</div>-->
-				<div class="panel-body">
-					<div class="alert alert-success contact__msg" style="display: none" role="alert">
-						Your message was sent successfully.
-					</div>
-									
-					<form action="contact.php"  method="post">
-						<p id="message"></p>
-						<div class="row" style="max-width:500px;">
-							<p class="text-uppercase my-font-style" align="center">Fill Your Contact Details</p>
-							<div class="col-md-12">
-								<input id="name1" type="text" class="form-control" placeholder="Name" name="name" required>
-							</div>
-							<div class="col-md-12">
-								<input id="email1" type="email" class="form-control" name="email" placeholder="Email" required>
-							</div>
-							<div class="col-md-12" style="margin-bottom: 15px;">
-								<input id="phone" placeholder="Mobile" name="phone" type="number" class="form-control input-inverse iti-phone" required>
+    <!-- Background image -->   
+    <div id="intro" class="bg-image shadow-2-strong d-md-block d-lg-block d-none">
+      <div class="mask h-100 m-0 p-0 " style="background-color: rgba(0, 0, 0, 0.6); top: 0;">
+        <div class="container d-flex align-items-center justify-content-center text-center h-100">
+          <div class="text-white">
+            <a href="https://www.edgerealty.ae" class="text-light mx-auto">
+                <h1 class="mb-3" style="font-size: 5.5rem;">
+                        <img src="images/cover/BURJ-BINGHATTI.png" alt="" style="height: 300px;">
+                </h1>
+            </a>
+            <div class="card">
+                <div class="card-body">
+                    <h5 class=" text-dark">Thank You! Our Property Consultants will be in touch with you shortly</h5>
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-							</div>
-						
-							<div class="col-md-12 text-center">
-								<!--<input type="submit"  name="EnqSubmit"  class="btn btn-white" value="Send us a Message">-->
-								<button type="submit" class="theme-btn btn-style-one">Submit</button>     
-							</div>
-						</div>
-					</form>
-					</div>
-				</div>	
-	  </div>
-	</div>
-  </div>
-  
-  <!--End Download Modal-->
 
-<!--Scroll to top-->
-<div class="scroll-to-top scroll-to-target hidden-xs hidden-sm" data-target="html"><span class="fa fa-angle-double-up"></span></div>
+
+
+    <div id="intro" class="bg-image shadow-2-strong d-md-block d-block d-lg-none">
+      <div class="mask h-100 m-0 p-0 " style="background-color: rgba(0, 0, 0, 0.6); top: 0;">
+        <div class="container d-flex align-items-center justify-content-center text-center h-100">
+          <div class="text-white">
+            <a href="https://www.edgerealty.ae" class="text-light mx-auto">
+                <h1 class="mb-3" style="font-size: 5.5rem;">
+                        <img src="images/cover/BURJ-BINGHATTI.png" alt="" style="height: 150px;">
+                </h1>
+            </a>
+            <div class="card">
+                <div class="card-body">
+                    <h5 class=" text-dark">Thank You! Our Property Consultants will be in touch with you shortly</h5>
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Background image -->
+  </header>
+  <!--Main Navigation-->
+
 
 
 
